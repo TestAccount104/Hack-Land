@@ -10,13 +10,13 @@
 
 { "name": "Hack Land Culture Hack", "uniqueTo": "Hack Land", "cost": 0, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1000 Culture] per [1] population [in all cities]", "[+9999999]% [Culture] [in all cities]", "[+9999999]% Golden Age length", "[-9999999]% Culture cost of adopting new Policies" ] } 
   
-{ "name": "Hack Land Faith Hack", "uniqueTo": "Hack Land", "cost": 0, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1000 Faith] per [1] population [in all cities]", "[+9999999]% [Faith] [in all cities]", "May not generate great prophet equivalents naturally", "May choose [100] additional belief(s) of any type when [founding] a religion", "May choose [100] additional belief(s) of any type when [enhancing] a religion" ] } 
+{ "name": "Hack Land Faith Hack", "uniqueTo": "Hack Land", "cost": 0, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1000 Faith] per [1] population [in all cities]", "[+9999999]% [Faith] [in all cities]", "May not generate great prophet equivalents naturally", "May choose [999] additional belief(s) of any type when [founding] a religion", "May choose [999] additional belief(s) of any type when [enhancing] a religion" ] } 
 
 { "name": "Hack Land Happiness Hack", "uniqueTo": "Hack Land", "cost": 0, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1000 Happiness] per [1] population [in all cities]", "[+9999999]% [Happiness] [in all cities]", "[1000] Happiness from each type of luxury resource", "[-9999999]% Unhappiness from [Population] [in all cities]" ] }
 
 { "name": "Hack Land Food Hack", "uniqueTo": "Hack Land", "cost": 0, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1000 Food] per [1] population [in all cities]", "[+9999999]% [Food] [in all cities]", "[+9999999]% growth [in all cities]" ] }
 
-{ "name": "Hack Land Science Hack", "uniqueTo": "Hack Land", "cost": 0, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1000 Science] per [1] population [in all cities]", "[+9999999]% [Science] [in all cities]" ] }
+{ "name": "Hack Land Science Hack", "uniqueTo": "Hack Land", "cost": 0, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1000 Science] per [1] population [in all cities]", "[+100000]% [Science] [in all cities]" ] }
 
 { "name": "Hack Land Production Hack", "uniqueTo": "Hack Land", "cost": 0, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1000 Production] per [1] population [in all cities]", "[+9999999]% [Production] [in all cities]", "Quantity of strategic resources produced by the empire +[9999999]%", "[-9999999]% tile improvement construction time", ] }
   
